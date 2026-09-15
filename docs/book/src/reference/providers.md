@@ -78,7 +78,7 @@ source of inspiration and ideas for others.
 - [Tinkerbell](https://github.com/tinkerbell/cluster-api-provider-tinkerbell)
 - [vcluster](https://github.com/loft-sh/cluster-api-provider-vcluster)
 - [Virtink](https://github.com/smartxworks/cluster-api-provider-virtink)
-- [VMware Cloud Director](https://github.com/vmware/cluster-api-provider-cloud-director)
+- [VMware Cloud Director](https://github.com/vmware-archive/cluster-api-provider-cloud-director) ⚠️ archived (January 2026)
 - [vSphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
 - [Vultr](https://github.com/vultr/cluster-api-provider-vultr)
 

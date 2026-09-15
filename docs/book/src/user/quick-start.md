@@ -843,7 +843,7 @@ clusterctl init --infrastructure scaleway
 
 {{#tab VCD}}
 
-Please follow the Cluster API Provider for [Cloud Director Getting Started Guide](https://github.com/vmware/cluster-api-provider-cloud-director/blob/main/README.md)
+Please follow the Cluster API Provider for [Cloud Director Getting Started Guide](https://github.com/vmware-archive/cluster-api-provider-cloud-director/blob/main/README.md)
 
 ```bash
 # Initialize the management cluster
@@ -1614,7 +1614,7 @@ For more information please visit [Tinkerbell getting started guide].
 {{#tab VCD}}
 
 A ClusterAPI compatible image must be available in your VCD catalog. For instructions on how to build and upload a compatible image
-see [CAPVCD](https://github.com/vmware/cluster-api-provider-cloud-director)
+see [CAPVCD](https://github.com/vmware-archive/cluster-api-provider-cloud-director)
 
 To see all required VCD environment variables execute:
 ```bash
